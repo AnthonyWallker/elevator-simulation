@@ -110,20 +110,6 @@ Project deployed with:
 
 ---
 
-## 📸 Demo Preview
-
-You can add:
-- gif
-- screenshot
-- short video preview
-
-Example:
-
-```markdown
-![demo](demo.gif)
-```
-
----
 
 ## 📚 Technical Notes
 
